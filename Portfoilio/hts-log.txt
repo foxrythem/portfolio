@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Aug 2025 20:26:46 at https://joshuahenningportfolio.weebly.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://joshuahenningportfolio.weebly.com/ -O1 "C:\Users\Charmanader\Desktop\New folder\WebsiteDowload\Portfoilio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/1519833176.jpg" (from https://joshuahenningportfolio.weebly.com/hunting-battle.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/356026413.jpg" (from https://joshuahenningportfolio.weebly.com/nba-all-world.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/1601687060.jpg" (from https://joshuahenningportfolio.weebly.com/playocean.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/873461775.jpg" (from https://joshuahenningportfolio.weebly.com/trials-of-set.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/85402262.jpg" (from https://joshuahenningportfolio.weebly.com/black-sun.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/1406198912.jpg" (from https://joshuahenningportfolio.weebly.com/unzipped.html)
+20:29:07	Error: 	"Not Found" (404) at link https://joshuahenningportfolio.weebly.com/"/uploads/8/1/7/6/81768636/background-images/1186032529.jpg" (from https://joshuahenningportfolio.weebly.com/sinopa.html)
+20:29:07	Warning: 	Link https://joshuahenningportfolio.weebly.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 284 links scanned, 275 files written (43700797 bytes overall) [42067942 bytes received at 298354 bytes/sec], 3208949 bytes transferred using HTTP compression in 58 files, ratio 40%, 10.5 requests per connection
+(7 errors, 1 warnings, 0 messages)
