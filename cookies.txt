@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 .weebly.com	TRUE	/	FALSE	1999999999	__cf_bm	gwPyDtAv4xwe86Uhv8qssRGVQACpaxT1tQdmT410JeE-1756427208-1.0.1.1-AOvDiA78Pm26IpWW3zqmeJOdeJVFPahr1DlSMRziHP4Y5IWHnlQWGeaulnJsMtJf.fLDNAPeUV7kuGmm6UHounqrtIzS6Rio_J_S_jfNeH8
-joshuahenningportfolio.weebly.com	TRUE	/	FALSE	1999999999	SameSite	None
+portfolio	TRUE	/	FALSE	1999999999	SameSite	None
 
